@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgarrett-scripps" alt="pgarrett-scripps" /></a> </p>
 
-- 🔭 I’m currently working on [ExclusionMS](https://github.com/pgarrett-scripps/ExclusionMsDockerCompose)
-
-- 🌱 I’m currently learning **Cloud computing, Devops, go**
-
-- 👯 I’m looking to collaborate on [Serenipy](https://github.com/pgarrett-scripps/serenipy)
-
-- 🤝 I’m looking for help with [Arboretum](https://github.com/JLane-scripps/Arboretum)
-
-- 💬 Ask me about **Python, Streamlit, Machine Learning**
-
 - 📫 How to reach me **pgarrett@scripps.edu**
 
 <h3 align="left">Connect with me:</h3>

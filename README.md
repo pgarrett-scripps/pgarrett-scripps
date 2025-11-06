@@ -1,5 +1,5 @@
 # 💫 About Me:
-I completed my degree in Cognitive Science with a minor in Computer Science at UCSD in 2020. Now, I’m in grad school studying computational mass spectrometry. My main focus is developing user-friendly, open-source software for analyzing mass spectrometry data.
+I like python and proteomics. Graduate Student at The Scripps Research Institute in the Yates Lab.
 
 ## Streamlit Tools Hompage
 https://proteomics-tools.streamlit.app/

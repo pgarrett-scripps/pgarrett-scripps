@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like python and proteomics. Graduate Student at The Scripps Research Institute in the Yates Lab.
+I like python and proteomics. Graduate Student at The Scripps Research Institute @ Yates Lab.
 
 ## Streamlit Tools Hompage
 https://proteomics-tools.streamlit.app/
